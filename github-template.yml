@@ -85,7 +85,7 @@ Resources:
       Source:
         Auth:
           Type: OAUTH
-        Location: https://github.com/seanremenyi/AMI_Pipeline.git
+        Location: https://github.com/seanremenyi/soe.git
         Type: GITHUB
       Triggers:
         Webhook: true
